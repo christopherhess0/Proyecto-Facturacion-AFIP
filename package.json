@@ -1,0 +1,12 @@
+{
+  "name": "proyecto-facturacion-afip",
+  "version": "1.0.0",
+  "description": "Este es un proyecto para la Empresa de Destapaciones de Barracas para automatizar la organizacion de los edificios a los que prestan los servicios, como base de datos y facturacion con ls SDK de la AFIP/ARCA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
